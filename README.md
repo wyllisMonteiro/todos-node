@@ -15,4 +15,5 @@ $ npm i
 $ npm run start
 ```
 
-## Architecture
+## Project architecture
+[Organizing your Express.js project structure for better productivity](https://blog.logrocket.com/organizing-express-js-project-structure-better-productivity/)
